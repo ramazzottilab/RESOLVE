@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ramazzottilab/RESOLVE: Public release"
+version: 1.10.1
+date-released: 2025-06-17
+doi: 10.5281/zenodo.15683389
+authors:
+  - family-names: Ramazzotti
+    given-names: Daniele
+    orcid: https://orcid.org/0000-0002-6087-2666
+  - family-names: Villa
+    given-names: Matteo
+  - family-names: Malighetti
+    given-names: Federica
+  - family-names: De Sano
+    given-names: Luca
+  - family-names: Villa
+    given-names: Alberto Maria
+  - family-names: Cordani
+    given-names: Nicoletta
+  - family-names: Aroldi
+    given-names: Andrea
+  - family-names: Antoniotti
+    given-names: Marco
+  - family-names: Caravagna
+    given-names: Giulio
+  - family-names: Graudenzi
+    given-names: Alex
+  - family-names: Piazza
+    given-names: Rocco
+  - family-names: Mologni
+    given-names: Luca
+preferred-citation:
+  type: article
+  title: "Comprehensive analysis of mutational processes across 20,000 adult and pediatric tumours"
+  authors:
+    - family-names: Villa
+      given-names: Matteo
+    - family-names: Malighetti
+      given-names: Federica
+    - family-names: De Sano
+      given-names: Luca
+    - family-names: Villa
+      given-names: Alberto Maria
+    - family-names: Cordani
+      given-names: Nicoletta
+    - family-names: Aroldi
+      given-names: Andrea
+    - family-names: Antoniotti
+      given-names: Marco
+    - family-names: Caravagna
+      given-names: Giulio
+    - family-names: Graudenzi
+      given-names: Alex
+    - family-names: Piazza
+      given-names: Rocco
+    - family-names: Mologni
+      given-names: Luca
+    - family-names: Ramazzotti
+      given-names: Daniele
+  journal: Nucleic Acids Research
+  year: 2025
+  publisher: Oxford University Press
