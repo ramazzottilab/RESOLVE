@@ -5,7 +5,8 @@
 #' set.seed(12345)
 #' alterations = association_mutations$alterations
 #' normalized_alpha = association_mutations$normalized_alpha
-#' association_alterations = associationAlterations(alterations = alterations, signatures = normalized_alpha)
+#' association_alterations = associationAlterations(alterations = alterations, 
+#'   signatures = normalized_alpha)
 #'
 #' @title associationAlterations
 #' @param alterations Matrix with the observed mutations (columns) for each patient (rows) as binary variables.
@@ -89,7 +90,8 @@ associationAlterations <- function( alterations, signatures ) {
 #' set.seed(12345)
 #' alterations = association_mutations$alterations
 #' normalized_alpha = association_mutations$normalized_alpha
-#' association_signatures = associationSignatures(alterations = alterations, signatures = normalized_alpha)
+#' association_signatures = associationSignatures(alterations = alterations,
+#'   signatures = normalized_alpha)
 #'
 #' @title associationSignatures
 #' @param alterations Matrix with the observed mutations (columns) for each patient (rows) as binary variables.

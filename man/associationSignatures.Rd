@@ -28,6 +28,7 @@ data(association_mutations)
 set.seed(12345)
 alterations = association_mutations$alterations
 normalized_alpha = association_mutations$normalized_alpha
-association_signatures = associationSignatures(alterations = alterations, signatures = normalized_alpha)
+association_signatures = associationSignatures(alterations = alterations,
+  signatures = normalized_alpha)
 
 }
