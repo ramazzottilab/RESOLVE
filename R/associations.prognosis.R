@@ -5,7 +5,8 @@
 #' set.seed(12345)
 #' clinical_data = association_survival$clinical_data
 #' normalized_alpha = association_survival$normalized_alpha
-#' prognosis_associations = associationPrognosis(clinical_data = clinical_data, signatures = normalized_alpha)
+#' prognosis_associations = associationPrognosis(clinical_data = clinical_data,
+#'   signatures = normalized_alpha)
 #'
 #' @title associationPrognosis
 #' @param clinical_data Matrix with two columns proving survival times (first column) and status (second column).

@@ -22,6 +22,7 @@ data(association_survival)
 set.seed(12345)
 clinical_data = association_survival$clinical_data
 normalized_alpha = association_survival$normalized_alpha
-prognosis_associations = associationPrognosis(clinical_data = clinical_data, signatures = normalized_alpha)
+prognosis_associations = associationPrognosis(clinical_data = clinical_data,
+  signatures = normalized_alpha)
 
 }
